@@ -6,7 +6,7 @@ cmake==3.27.6
 datasets==2.14.5
 docker-pycreds==0.4.0
 filelock==3.12.4
-fsspec==2023.9.2
+fsspec==2023.6.0
 gitdb==4.0.10
 GitPython==3.1.37
 huggingface-hub==0.16.4
